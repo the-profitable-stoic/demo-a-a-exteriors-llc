@@ -1,0 +1,596 @@
+{
+  "business": {
+    "name": "A & A Exteriors LLC",
+    "phone": "+14144165038",
+    "category": "siding installer",
+    "city": "Milwaukee",
+    "state": "WI"
+  },
+  "design": {
+    "preset": {
+      "id": "roofing-heritage-craft",
+      "categoryGroup": "roofing",
+      "name": "Heritage Craft",
+      "recipeFile": "roofing/heritage-craft.astro",
+      "colors": {
+        "primary": "#3D2E1F",
+        "primaryDark": "#251A10",
+        "primaryLight": "#D4C5B0",
+        "secondary": "#5C4A3A",
+        "accent": "#6B5335",
+        "background": "#F5F2ED",
+        "backgroundAlt": "#5C4A3A",
+        "surface": "#EDEAE4",
+        "text": "#1A1510",
+        "textLight": "#4A4540",
+        "textOnDark": "#F5F2ED",
+        "border": "#D5CEBC"
+      },
+      "typography": {
+        "headingFont": "Playfair Display",
+        "headingWeight": "600",
+        "bodyFont": "Libre Franklin",
+        "bodyWeight": "400",
+        "headingStyle": "normal",
+        "scale": "1.25"
+      },
+      "shape": {
+        "borderRadius": "4px",
+        "buttonRadius": "4px",
+        "cardRadius": "6px",
+        "shadowStyle": "subtle"
+      },
+      "sections": {
+        "heroStyle": "dark",
+        "sectionAlternation": [
+          "light",
+          "surface",
+          "light",
+          "surface",
+          "light"
+        ],
+        "animationStyle": "fade",
+        "spacingScale": "generous"
+      }
+    },
+    "recipeId": "roofing/heritage-craft"
+  },
+  "content": {
+    "homepage": {
+      "heroHeadline": "Milwaukee's Siding Authority",
+      "heroSubline": "Protecting Milwaukee homes with expert siding installation and repair. Built to withstand Wisconsin's harsh weather.",
+      "aboutTitle": "Milwaukee's Trusted Siding Experts",
+      "aboutText": [
+        "A & A Exteriors LLC started with a simple mission: provide Milwaukee homeowners with durable, beautiful siding solutions built to last. We're a local team, born and raised in Wisconsin, and we understand the unique challenges our climate presents.",
+        "We believe in doing things right the first time. That means using quality materials, employing skilled installers, and paying attention to every detail. We treat every home as if it were our own, ensuring a flawless finish and lasting protection.",
+        "We're proud to be a part of the Milwaukee community. We support local organizations and strive to create a positive impact through our work. When you choose A & A Exteriors, you're choosing a company that cares about its neighbors."
+      ],
+      "valueProps": [
+        {
+          "title": "Weather-Resistant Siding",
+          "description": "Engineered to withstand Milwaukee's harsh winters and humid summers."
+        },
+        {
+          "title": "Expert Installation",
+          "description": "Our skilled team ensures a flawless fit and long-lasting performance."
+        },
+        {
+          "title": "Free Consultations & Estimates",
+          "description": "Get a clear understanding of your options and costs upfront."
+        },
+        {
+          "title": "Local Expertise",
+          "description": "We understand Milwaukee's unique housing styles and challenges."
+        }
+      ],
+      "ctaHeadline": "Protect Your Home Today",
+      "ctaSubline": "Schedule a free siding consultation and estimate. Let us help you find the perfect siding solution for your Milwaukee home."
+    },
+    "services": [
+      {
+        "slug": "vinyl-siding-installation",
+        "name": "Vinyl Siding Installation",
+        "shortDescription": "Durable, affordable, and versatile vinyl siding solutions for Milwaukee homes.",
+        "description": "Vinyl siding remains a popular choice for Milwaukee homeowners due to its affordability, durability, and ease of maintenance. A & A Exteriors LLC offers a wide selection of vinyl siding styles and colors to complement any home's architecture, from classic Cream City brick bungalows to modern suburban ranches. We carefully select vinyl siding products that can withstand Wisconsin's extreme temperature fluctuations, heavy snowfalls, and potential for ice dams. \n\nOur installation process is meticulous, ensuring a watertight seal and proper ventilation to prevent moisture damage. We pay close attention to detail, including flashing around windows and doors, and proper fastening techniques to prevent warping or buckling. We remove and dispose of old siding responsibly, leaving your property clean and ready to enjoy your new siding. With proper installation, vinyl siding can last for decades, protecting your home from the elements and enhancing its curb appeal. \n\nWe offer various vinyl siding options, including horizontal, vertical, shake, and shingle styles. We also provide insulated vinyl siding for added energy efficiency, helping you save on heating and cooling costs. Our team will work with you to choose the perfect vinyl siding solution to meet your budget and aesthetic preferences.",
+        "process": [
+          "Step 1: Consultation and material selection",
+          "Step 2: Old siding removal and disposal",
+          "Step 3: Wall preparation and moisture barrier installation",
+          "Step 4: Vinyl siding installation with precise detailing"
+        ],
+        "benefits": [
+          "Affordable and cost-effective",
+          "Low maintenance and easy to clean",
+          "Wide variety of styles and colors",
+          "Increased curb appeal and home value"
+        ],
+        "faq": [
+          {
+            "question": "How long does vinyl siding last in Milwaukee's climate?",
+            "answer": "With proper installation and maintenance, vinyl siding can last 20-30 years in Milwaukee, even with our harsh winters and humid summers. Choosing a thicker gauge and impact-resistant vinyl can further extend its lifespan."
+          },
+          {
+            "question": "Does vinyl siding require painting?",
+            "answer": "No, vinyl siding is virtually maintenance-free and does not require painting. Occasional cleaning with a mild soap and water solution is all that's needed to keep it looking its best."
+          },
+          {
+            "question": "Can vinyl siding be installed over existing siding?",
+            "answer": "In some cases, vinyl siding can be installed over existing siding, but it's generally not recommended. Removing the old siding allows us to inspect the underlying structure for damage and ensure a proper, watertight installation."
+          }
+        ]
+      },
+      {
+        "slug": "fiber-cement-siding-installation",
+        "name": "Fiber Cement Siding Installation",
+        "shortDescription": "Durable, fire-resistant fiber cement siding for lasting beauty and protection.",
+        "description": "Fiber cement siding offers exceptional durability, fire resistance, and aesthetic versatility, making it an excellent choice for Milwaukee homes. A & A Exteriors LLC specializes in the expert installation of fiber cement siding, ensuring a long-lasting and beautiful finish that can withstand Wisconsin's challenging weather conditions. Fiber cement siding is composed of cement, sand, and cellulose fibers, creating a strong and stable material that resists warping, rotting, and insect damage.\n\nOur installation process is meticulous, following manufacturer specifications to ensure proper fastening, sealing, and ventilation. We pay close attention to detail, including cutting and shaping the siding to fit perfectly around windows, doors, and corners. We use high-quality sealants and flashing to prevent moisture intrusion and protect your home from water damage. Fiber cement siding can be pre-painted or painted after installation, allowing you to customize the color to match your home's style. \n\nWe offer a wide range of fiber cement siding styles, including clapboard, shingle, and board-and-batten. Our team will work with you to choose the perfect style and color to enhance your home's curb appeal and protect it from the elements. Fiber cement siding requires minimal maintenance and can last for decades with proper care.",
+        "process": [
+          "Step 1: Precise measurements and cutting of fiber cement boards",
+          "Step 2: Careful installation with proper fastening techniques",
+          "Step 3: Sealing and caulking to prevent moisture penetration",
+          "Step 4: Painting or pre-finished siding options available"
+        ],
+        "benefits": [
+          "Exceptional durability and longevity",
+          "Fire-resistant and insect-resistant",
+          "Versatile styles and color options",
+          "Increased home value and curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "How does fiber cement siding hold up in Milwaukee winters?",
+            "answer": "Fiber cement siding is highly resistant to freeze-thaw cycles, making it an excellent choice for Milwaukee's harsh winters. It won't warp, crack, or rot like wood siding."
+          },
+          {
+            "question": "Does fiber cement siding require special maintenance?",
+            "answer": "Fiber cement siding requires minimal maintenance. Occasional cleaning with a mild soap and water solution is all that's typically needed. Repainting may be required every 10-15 years."
+          },
+          {
+            "question": "Is fiber cement siding more expensive than vinyl siding?",
+            "answer": "Yes, fiber cement siding is generally more expensive than vinyl siding due to its superior durability and longevity. However, the long-term cost savings from reduced maintenance and replacement can make it a worthwhile investment."
+          }
+        ]
+      },
+      {
+        "slug": "siding-repair",
+        "name": "Siding Repair Services",
+        "shortDescription": "Expert siding repair to protect your home from water damage and maintain its beauty.",
+        "description": "Milwaukee's harsh weather can take a toll on your siding, leading to cracks, dents, and water damage. A & A Exteriors LLC offers comprehensive siding repair services to address these issues and protect your home from further damage. We understand the importance of prompt and effective siding repair, especially in a climate like ours where moisture intrusion can lead to costly problems. From replacing damaged panels to sealing cracks and repairing flashing, we have the expertise to restore your siding to its original condition. \n\nWe work with all types of siding, including vinyl, fiber cement, wood, and aluminum. Our team will carefully assess the damage and recommend the most appropriate repair solution. We use high-quality materials and proven techniques to ensure a lasting repair that blends seamlessly with your existing siding. We also offer emergency siding repair services for situations where immediate action is required to prevent further damage. \n\nDon't let damaged siding compromise your home's protection and curb appeal. Contact A & A Exteriors LLC for expert siding repair services you can count on. We'll provide a thorough inspection and a fair estimate, and we'll get the job done right, the first time.",
+        "process": [
+          "Step 1: Thorough inspection of siding damage",
+          "Step 2: Precise matching of existing siding materials",
+          "Step 3: Expert repair or replacement of damaged sections",
+          "Step 4: Sealing and weatherproofing for lasting protection"
+        ],
+        "benefits": [
+          "Prevents water damage and mold growth",
+          "Maintains curb appeal and home value",
+          "Extends the lifespan of your siding",
+          "Cost-effective alternative to full siding replacement"
+        ],
+        "faq": [
+          {
+            "question": "How do I know if my siding needs repair?",
+            "answer": "Signs that your siding needs repair include cracks, dents, warping, loose panels, and water stains. If you notice any of these issues, it's important to contact a siding professional for an inspection."
+          },
+          {
+            "question": "Can I repair siding myself?",
+            "answer": "While some minor siding repairs can be done DIY, it's generally best to hire a professional for more extensive damage. Improper repairs can lead to further damage and water intrusion."
+          },
+          {
+            "question": "How much does siding repair cost?",
+            "answer": "The cost of siding repair varies depending on the extent of the damage, the type of siding, and the complexity of the repair. We offer free estimates to provide you with a clear understanding of the costs involved."
+          }
+        ]
+      },
+      {
+        "slug": "siding-replacement",
+        "name": "Complete Siding Replacement",
+        "shortDescription": "Upgrade your home with new siding for enhanced protection and aesthetics.",
+        "description": "When siding is severely damaged or outdated, complete siding replacement may be the best option. A & A Exteriors LLC provides expert siding replacement services to transform your Milwaukee home with new, durable, and beautiful siding. We understand that siding replacement is a significant investment, and we're committed to providing you with a seamless and stress-free experience. From initial consultation to final inspection, we'll guide you through every step of the process. \n\nWe offer a wide selection of siding materials, including vinyl, fiber cement, wood, and aluminum. Our team will help you choose the perfect siding to match your home's style, budget, and performance requirements. We remove and dispose of your old siding responsibly, and we prepare the underlying walls to ensure a proper and long-lasting installation. Our skilled installers use the latest techniques and equipment to ensure a flawless finish and watertight seal. \n\nWith new siding from A & A Exteriors LLC, you can enhance your home's curb appeal, increase its energy efficiency, and protect it from the elements for years to come. Contact us today for a free consultation and estimate.",
+        "process": [
+          "Step 1: Comprehensive siding assessment and material selection",
+          "Step 2: Safe and efficient removal of old siding",
+          "Step 3: Thorough inspection and preparation of wall surfaces",
+          "Step 4: Professional installation of new siding with attention to detail"
+        ],
+        "benefits": [
+          "Enhanced curb appeal and home value",
+          "Improved energy efficiency and reduced utility bills",
+          "Increased protection from the elements",
+          "Modernized look and feel for your home"
+        ],
+        "faq": [
+          {
+            "question": "How long does siding replacement take?",
+            "answer": "The duration of siding replacement depends on the size and complexity of the project, as well as the type of siding being installed. We'll provide you with a realistic timeline during the initial consultation."
+          },
+          {
+            "question": "Do I need a permit for siding replacement?",
+            "answer": "In most cases, a permit is required for siding replacement in Milwaukee. We'll handle the permit application process for you to ensure compliance with local regulations."
+          },
+          {
+            "question": "What is the best time of year for siding replacement?",
+            "answer": "Siding replacement can be done year-round in Milwaukee, but the ideal time is typically during the spring or fall when the weather is mild. We can work in colder temperatures, but it may require additional precautions."
+          }
+        ]
+      },
+      {
+        "slug": "soffit-and-fascia-repair",
+        "name": "Soffit and Fascia Repair/Replacement",
+        "shortDescription": "Protect your roof and attic by maintaining your soffit and fascia.",
+        "description": "Soffit and fascia are essential components of your home's roofing system, providing ventilation and protection against the elements. Damaged or deteriorated soffit and fascia can lead to water damage, pest infestations, and reduced energy efficiency. A & A Exteriors LLC offers expert soffit and fascia repair and replacement services to ensure your home is properly protected. We understand the importance of these often-overlooked components and their impact on your home's overall health. \n\nWe work with a variety of materials, including vinyl, aluminum, and wood, and we can match your existing soffit and fascia to maintain a consistent aesthetic. Our team will carefully inspect your soffit and fascia for damage, such as rot, cracks, or insect infestations, and recommend the most appropriate repair or replacement solution. We use high-quality materials and proven techniques to ensure a long-lasting and weather-resistant installation. \n\nDon't let damaged soffit and fascia compromise your home's protection and energy efficiency. Contact A & A Exteriors LLC for expert soffit and fascia repair and replacement services you can trust.",
+        "process": [
+          "Step 1: Thorough inspection of soffit and fascia damage",
+          "Step 2: Matching existing materials for seamless integration",
+          "Step 3: Expert repair or replacement of damaged sections",
+          "Step 4: Proper ventilation to prevent moisture build-up"
+        ],
+        "benefits": [
+          "Protects your roof and attic from water damage",
+          "Prevents pest infestations",
+          "Improves energy efficiency",
+          "Maintains curb appeal"
+        ],
+        "faq": [
+          {
+            "question": "What are the signs of damaged soffit and fascia?",
+            "answer": "Signs of damaged soffit and fascia include rot, cracks, peeling paint, insect infestations, and water stains on the eaves."
+          },
+          {
+            "question": "Can I repair soffit and fascia myself?",
+            "answer": "Soffit and fascia repair can be challenging and requires specialized tools and knowledge. It's generally best to hire a professional to ensure a proper and lasting repair."
+          },
+          {
+            "question": "How often should I inspect my soffit and fascia?",
+            "answer": "It's a good idea to inspect your soffit and fascia at least once a year, especially after severe weather events. Early detection of damage can prevent more costly repairs down the road."
+          }
+        ]
+      },
+      {
+        "slug": "gutter-installation",
+        "name": "Gutter Installation and Repair",
+        "shortDescription": "Protect your home's foundation with properly functioning gutters.",
+        "description": "A & A Exteriors provides expert gutter installation and repair services, ensuring your Milwaukee home is protected from water damage. Gutters play a crucial role in diverting rainwater away from your foundation, preventing costly damage and erosion. We offer a variety of gutter styles and materials, including seamless aluminum, copper, and vinyl, to match your home's aesthetic and budget.\n\nOur experienced team will assess your home's needs and recommend the best gutter system for optimal performance. We ensure proper sizing, slope, and downspout placement to effectively channel water away from your foundation. We also offer gutter protection systems, such as leaf guards and screens, to prevent clogs and reduce maintenance. Proper gutter installation is essential for preventing water damage to your foundation, siding, and landscaping. \n\nWe also provide gutter repair services, including patching leaks, realigning gutters, and replacing damaged sections. Regular gutter maintenance is crucial for preventing costly repairs and ensuring your home's protection.",
+        "process": [
+          "Step 1: Assess your home's needs and recommend the best gutter system",
+          "Step 2: Ensure proper sizing, slope, and downspout placement",
+          "Step 3: Expert installation of gutters and downspouts",
+          "Step 4: Offer gutter protection systems to prevent clogs and reduce maintenance"
+        ],
+        "benefits": [
+          "Protects your home's foundation from water damage",
+          "Prevents erosion and landscaping damage",
+          "Reduces the risk of basement flooding",
+          "Extends the lifespan of your siding and roof"
+        ],
+        "faq": [
+          {
+            "question": "Why is gutter maintenance important?",
+            "answer": "Regular gutter cleaning and maintenance prevent clogs, which can lead to water damage to your foundation, siding, and roof. Clogged gutters can also become breeding grounds for pests."
+          },
+          {
+            "question": "What are the benefits of seamless gutters?",
+            "answer": "Seamless gutters eliminate seams where leaks can occur, providing a more durable and reliable gutter system. They also offer a cleaner and more aesthetically pleasing look."
+          },
+          {
+            "question": "How often should I clean my gutters?",
+            "answer": "It's recommended to clean your gutters at least twice a year, typically in the spring and fall. If you have trees near your home, you may need to clean them more frequently."
+          }
+        ]
+      }
+    ],
+    "serviceAreas": [
+      {
+        "city": "Wauwatosa",
+        "slug": "wauwatosa-wi",
+        "state": "WI",
+        "content": "A & A Exteriors LLC is proud to offer our expert siding installation services to the residents of Wauwatosa, Wisconsin. Known for its beautiful, historic homes, particularly those built in the 1920s through 1940s featuring Tudor and Colonial styles, Wauwatosa presents unique challenges and opportunities when it comes to siding projects. We understand the importance of maintaining the architectural integrity of these homes while providing modern protection from Wisconsin's harsh winters.\n\nOur team has extensive experience working on Wauwatosa homes, ensuring that your new siding not only enhances your home's curb appeal but also provides superior insulation and weather resistance. We offer a wide range of siding materials to match your home's style and your personal preferences, from traditional wood siding to durable vinyl and fiber cement options. We're committed to providing Wauwatosa homeowners with top-quality siding solutions that stand the test of time.",
+        "localContext": "Wauwatosa's housing stock largely consists of beautiful Tudor and Colonial style homes built in the early to mid 20th century. The climate includes harsh, cold winters and significant lake-effect snow.",
+        "nearbyAreas": [
+          "Milwaukee",
+          "West Allis",
+          "Brookfield"
+        ]
+      },
+      {
+        "city": "Brookfield",
+        "slug": "brookfield-wi",
+        "state": "WI",
+        "content": "A & A Exteriors LLC is dedicated to serving the homeowners of Brookfield, Wisconsin, with exceptional siding installation services. Characterized by its upscale suburban homes, primarily built in the 1970s and 1980s, Brookfield presents a unique set of aesthetic and functional needs. We recognize the importance of providing siding solutions that complement the architectural style of these homes while offering superior protection from the elements.\n\nWe offer a diverse selection of siding materials to suit your Brookfield home, including vinyl, fiber cement, and wood siding options. Our team is skilled in providing efficient and professional siding installation services tailored to the specific needs of Brookfield homeowners. We are committed to ensuring your satisfaction with our work and the long-term performance of your new siding.",
+        "localContext": "Brookfield features primarily upscale suburban homes constructed in the 1970s and 1980s. The area experiences harsh winters and lake-effect snow.",
+        "nearbyAreas": [
+          "Elm Grove",
+          "New Berlin",
+          "Waukesha"
+        ]
+      },
+      {
+        "city": "Milwaukee",
+        "slug": "milwaukee-wi",
+        "state": "WI",
+        "content": "A & A Exteriors LLC is proud to serve the city of Milwaukee, WI, providing top-quality siding installation and repair services to homeowners throughout the area. From the historic homes of the East Side to the bungalows of Bay View, Milwaukee's diverse architecture demands a siding contractor with both expertise and experience.\n\nWe offer a wide variety of siding options to suit any Milwaukee home, including vinyl, fiber cement, wood, and more. Our team is committed to providing exceptional craftsmanship and customer service, ensuring that your siding project is completed to your satisfaction. We understand the challenges of Milwaukee's climate and will work with you to choose the best siding solution for your home.",
+        "localContext": "Milwaukee's housing stock is incredibly diverse, with everything from Victorian mansions to modern condos. The city experiences cold winters and hot, humid summers.",
+        "nearbyAreas": [
+          "West Allis",
+          "Shorewood",
+          "Wauwatosa"
+        ]
+      },
+      {
+        "city": "West Allis",
+        "slug": "west-allis-wi",
+        "state": "WI",
+        "content": "A & A Exteriors LLC provides expert siding services to the residents of West Allis, WI. With a mix of older and newer homes, West Allis presents a variety of siding needs. Our team is well-equipped to handle any project, from replacing outdated siding to installing new siding on a newly constructed home.\n\nWe offer a wide range of siding options, including vinyl, fiber cement, and wood. We will work with you to choose the best siding solution for your home and budget. Our goal is to provide you with a beautiful, durable, and energy-efficient siding solution that will protect your home for years to come.",
+        "localContext": "West Allis has a mix of older and newer homes. Its climate includes cold, snowy winters and warm summers.",
+        "nearbyAreas": [
+          "Milwaukee",
+          "New Berlin",
+          "Wauwatosa"
+        ]
+      },
+      {
+        "city": "New Berlin",
+        "slug": "new-berlin-wi",
+        "state": "WI",
+        "content": "A & A Exteriors LLC is proud to offer siding installation and repair services to the residents of New Berlin, WI. We understand the unique needs of homeowners in this growing community, and we are committed to providing top-quality workmanship and exceptional customer service.\n\nWhether you're looking to update your home's curb appeal or protect it from the elements, we have the right siding solution for you. We offer a variety of siding options, including vinyl, fiber cement, and wood. Our team will work with you to choose the best siding for your home and budget.",
+        "localContext": "New Berlin is a growing suburban community with a mix of housing styles. The area experiences cold winters and warm summers.",
+        "nearbyAreas": [
+          "Brookfield",
+          "Muskego",
+          "Waukesha"
+        ]
+      },
+      {
+        "city": "Waukesha",
+        "slug": "waukesha-wi",
+        "state": "WI",
+        "content": "A & A Exteriors LLC provides comprehensive siding services in Waukesha, WI. We cater to the diverse architectural landscape of Waukesha, offering solutions for everything from historic homes to modern constructions. Our expertise ensures that your siding project enhances your home's beauty and durability.\n\nWe offer a wide array of siding materials, including vinyl, fiber cement, and wood. Our team is dedicated to delivering exceptional craftsmanship and customer satisfaction. We'll assist you in selecting the perfect siding to match your home's style and protect it from Wisconsin's weather conditions.",
+        "localContext": "Waukesha features a mix of historic and modern homes. The climate includes cold winters and warm, humid summers.",
+        "nearbyAreas": [
+          "Brookfield",
+          "New Berlin",
+          "Pewaukee"
+        ]
+      },
+      {
+        "city": "Shorewood",
+        "slug": "shorewood-wi",
+        "state": "WI",
+        "content": "A & A Exteriors LLC is delighted to serve the village of Shorewood, WI, providing top-notch siding installation and repair services. Known for its charming homes and lakefront location, Shorewood requires siding solutions that are both aesthetically pleasing and durable enough to withstand the elements. We understand the unique character of Shorewood's architecture and are committed to preserving its beauty.\n\nWe offer a variety of siding options to complement Shorewood's diverse housing styles, including vinyl, wood, and fiber cement. Our team is dedicated to providing exceptional craftsmanship and customer service, ensuring that your siding project is completed to your satisfaction. We'll work with you to choose the best siding solution for your home, considering factors such as style, budget, and durability.",
+        "localContext": "Shorewood is characterized by its charming homes and proximity to Lake Michigan. The climate includes cold, snowy winters and mild summers.",
+        "nearbyAreas": [
+          "Milwaukee",
+          "Whitefish Bay",
+          "Glendale"
+        ]
+      },
+      {
+        "city": "Whitefish Bay",
+        "slug": "whitefish-bay-wi",
+        "state": "WI",
+        "content": "A & A Exteriors LLC is proud to offer our expert siding services to the residents of Whitefish Bay, WI. Known for its beautiful, well-maintained homes and close proximity to Lake Michigan, Whitefish Bay presents unique challenges and opportunities when it comes to siding projects. We understand the importance of maintaining the architectural integrity of these homes while providing modern protection from Wisconsin's harsh weather conditions.\n\nOur team has extensive experience working on Whitefish Bay homes, ensuring that your new siding not only enhances your home's curb appeal but also provides superior insulation and weather resistance. We offer a wide range of siding materials to match your home's style and your personal preferences, from traditional wood siding to durable vinyl and fiber cement options. We're committed to providing Whitefish Bay homeowners with top-quality siding solutions that stand the test of time.",
+        "localContext": "Whitefish Bay features well-maintained homes and is located near Lake Michigan. The climate includes cold, snowy winters and mild summers.",
+        "nearbyAreas": [
+          "Shorewood",
+          "Glendale",
+          "Milwaukee"
+        ]
+      },
+      {
+        "city": "Elm Grove",
+        "slug": "elm-grove-wi",
+        "state": "WI",
+        "content": "A & A Exteriors LLC is dedicated to providing high-quality siding services to the residents of Elm Grove, WI. Known for its beautiful homes and upscale community, Elm Grove requires siding solutions that are both aesthetically pleasing and durable enough to withstand the elements. We understand the importance of maintaining the architectural integrity of these homes while providing modern protection from Wisconsin's weather conditions.\n\nOur team has extensive experience working on Elm Grove homes, ensuring that your new siding not only enhances your home's curb appeal but also provides superior insulation and weather resistance. We offer a wide range of siding materials to match your home's style and your personal preferences, from traditional wood siding to durable vinyl and fiber cement options. We're committed to providing Elm Grove homeowners with top-quality siding solutions that stand the test of time.",
+        "localContext": "Elm Grove is an upscale community with beautiful homes. The climate includes cold, snowy winters and warm summers.",
+        "nearbyAreas": [
+          "Brookfield",
+          "Wauwatosa",
+          "New Berlin"
+        ]
+      },
+      {
+        "city": "Muskego",
+        "slug": "muskego-wi",
+        "state": "WI",
+        "content": "A & A Exteriors LLC is proud to offer siding installation and repair services to the residents of Muskego, WI. We understand the unique needs of homeowners in this growing community, and we are committed to providing top-quality workmanship and exceptional customer service.\n\nWhether you're looking to update your home's curb appeal or protect it from the elements, we have the right siding solution for you. We offer a variety of siding options, including vinyl, fiber cement, and wood. Our team will work with you to choose the best siding for your home and budget.",
+        "localContext": "Muskego is a growing community with a mix of housing styles. The area experiences cold winters and warm summers.",
+        "nearbyAreas": [
+          "New Berlin",
+          "Hales Corners",
+          "Big Bend"
+        ]
+      },
+      {
+        "city": "Pewaukee",
+        "slug": "pewaukee-wi",
+        "state": "WI",
+        "content": "A & A Exteriors LLC is delighted to offer siding services to the residents of Pewaukee, WI. Pewaukee's mix of lakeside homes and suburban developments requires siding solutions that are both attractive and durable. We understand the importance of protecting your home from the elements while enhancing its curb appeal.\n\nWe offer a variety of siding options to suit any Pewaukee home, including vinyl, fiber cement, and wood. Our team is dedicated to providing exceptional craftsmanship and customer service. We will work with you to choose the best siding for your home and budget.",
+        "localContext": "Pewaukee features a mix of lakeside homes and suburban developments. The climate includes cold winters and warm summers.",
+        "nearbyAreas": [
+          "Waukesha",
+          "Sussex",
+          "Hartland"
+        ]
+      },
+      {
+        "city": "Glendale",
+        "slug": "glendale-wi",
+        "state": "WI",
+        "content": "A & A Exteriors LLC is proud to serve the residents of Glendale, WI, with top-quality siding installation and repair services. We understand the diverse architectural styles in Glendale and offer a wide range of siding options to match any home. Our team is committed to providing exceptional craftsmanship and customer service.\n\nWhether you're looking to update your home's appearance or improve its energy efficiency, we have the right siding solution for you. We offer vinyl, fiber cement, wood, and other siding materials. We'll work with you to choose the best siding for your needs and budget.",
+        "localContext": "Glendale features a variety of architectural styles. The climate includes cold winters and warm summers.",
+        "nearbyAreas": [
+          "Milwaukee",
+          "Whitefish Bay",
+          "Brown Deer"
+        ]
+      }
+    ],
+    "reviews": [
+      {
+        "name": "Sarah M.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "A & A Exteriors did an amazing job installing new vinyl siding on our Wauwatosa bungalow. The crew was professional, efficient, and paid attention to every detail. Our house looks brand new, and we've already noticed a difference in our energy bills. Highly recommend!",
+        "date": "2024-11-15"
+      },
+      {
+        "name": "David K.",
+        "rating": 4,
+        "service": "Siding Repair",
+        "text": "We had some storm damage to our fiber cement siding, and A & A Exteriors came out quickly to assess the damage and provide a repair estimate. The repair was done promptly and professionally, and you can't even tell there was any damage. Great service!",
+        "date": "2024-10-28"
+      },
+      {
+        "name": "Emily L.",
+        "rating": 5,
+        "service": "Soffit and Fascia Replacement",
+        "text": "A & A Exteriors replaced our old, rotting soffit and fascia, and we couldn't be happier with the results. The team was knowledgeable and helped us choose the right materials for our home. The installation was flawless, and our house looks so much better. Thank you!",
+        "date": "2024-09-05"
+      },
+      {
+        "name": "Michael P.",
+        "rating": 5,
+        "service": "Gutter Installation",
+        "text": "We had A & A Exteriors install new seamless gutters on our home, and they did a fantastic job. The gutters look great, and they're functioning perfectly. The team was professional, courteous, and cleaned up thoroughly after the job. We highly recommend them.",
+        "date": "2024-08-12"
+      },
+      {
+        "name": "Jessica R.",
+        "rating": 4,
+        "service": "Siding Replacement",
+        "text": "A & A Exteriors replaced the siding on my entire house. It was a big job, but they handled it with professionalism and care. There were a few minor hiccups along the way, but they addressed them promptly and to my satisfaction. The new siding looks fantastic!",
+        "date": "2024-07-20"
+      },
+      {
+        "name": "Brian S.",
+        "rating": 5,
+        "service": "Vinyl Siding Installation",
+        "text": "The A & A Exteriors crew were absolute pros. They installed vinyl siding on my Brookfield home quickly and efficiently. Great communication throughout the process and the price was fair. I'm very satisfied with their work.",
+        "date": "2024-06-01"
+      }
+    ],
+    "seo": {
+      "homepage": {
+        "title": "A & A Exteriors LLC | Milwaukee Siding",
+        "description": "Milwaukee's trusted siding installer. Vinyl, fiber cement, siding repair. Free quotes. Quality workmanship, local experts."
+      },
+      "about": {
+        "title": "About A & A Exteriors LLC | Milwaukee Siding",
+        "description": "Learn about A & A Exteriors LLC, Milwaukee's leading siding contractor. Quality siding installation and repair services."
+      },
+      "services": {
+        "title": "Siding Services | A & A Exteriors LLC",
+        "description": "Expert siding installation and repair services in Milwaukee, WI. Vinyl siding, fiber cement, soffit, fascia, and gutters."
+      },
+      "contact": {
+        "title": "Contact A & A Exteriors LLC | Milwaukee Siding",
+        "description": "Contact A & A Exteriors LLC for free siding estimates in Milwaukee. Call us today to schedule your consultation!"
+      },
+      "reviews": {
+        "title": "A & A Exteriors LLC | Customer Reviews",
+        "description": "Read reviews from satisfied A & A Exteriors LLC customers in Milwaukee. See why we're the trusted choice for siding."
+      },
+      "service-areas": {
+        "title": "A & A Exteriors LLC | Service Areas",
+        "description": "A & A Exteriors LLC provides siding services in Milwaukee, Wauwatosa, Brookfield, and surrounding areas. Contact us today!"
+      }
+    },
+    "companyInfo": {
+      "yearsInBusiness": 12,
+      "projectsCompleted": "800+",
+      "satisfaction": "97%",
+      "teamSize": "20+"
+    }
+  },
+  "images": {
+    "hero": "/images/hero.webp",
+    "heroResponsive": {
+      "src": "/images/hero.webp",
+      "srcset": "/images/hero-400w.webp 400w, /images/hero-800w.webp 800w, /images/hero-1200w.webp 1200w, /images/hero.webp 1376w",
+      "sizes": "100vw",
+      "width": 1376,
+      "height": 768
+    },
+    "about": "/images/about.webp",
+    "aboutResponsive": {
+      "src": "/images/about.webp",
+      "srcset": "/images/about-400w.webp 400w, /images/about-800w.webp 800w, /images/about-1200w.webp 1200w, /images/about.webp 1200w",
+      "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+      "width": 1200,
+      "height": 896
+    },
+    "services": {
+      "vinyl-siding-installation": "/images/service-vinyl-siding-installation.webp",
+      "fiber-cement-siding-installation": "/images/service-fiber-cement-siding-installation.webp",
+      "siding-repair": "/images/service-siding-repair.webp",
+      "siding-replacement": "/images/service-siding-replacement.webp",
+      "soffit-and-fascia-repair": "/images/service-soffit-and-fascia-repair.webp",
+      "gutter-installation": "/images/service-gutter-installation.webp"
+    },
+    "servicesResponsive": {
+      "vinyl-siding-installation": {
+        "src": "/images/service-vinyl-siding-installation.webp",
+        "srcset": "/images/service-vinyl-siding-installation-400w.webp 400w, /images/service-vinyl-siding-installation-800w.webp 800w, /images/service-vinyl-siding-installation-1200w.webp 1200w, /images/service-vinyl-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "fiber-cement-siding-installation": {
+        "src": "/images/service-fiber-cement-siding-installation.webp",
+        "srcset": "/images/service-fiber-cement-siding-installation-400w.webp 400w, /images/service-fiber-cement-siding-installation-800w.webp 800w, /images/service-fiber-cement-siding-installation-1200w.webp 1200w, /images/service-fiber-cement-siding-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-repair": {
+        "src": "/images/service-siding-repair.webp",
+        "srcset": "/images/service-siding-repair-400w.webp 400w, /images/service-siding-repair-800w.webp 800w, /images/service-siding-repair-1200w.webp 1200w, /images/service-siding-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "siding-replacement": {
+        "src": "/images/service-siding-replacement.webp",
+        "srcset": "/images/service-siding-replacement-400w.webp 400w, /images/service-siding-replacement-800w.webp 800w, /images/service-siding-replacement-1200w.webp 1200w, /images/service-siding-replacement.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "soffit-and-fascia-repair": {
+        "src": "/images/service-soffit-and-fascia-repair.webp",
+        "srcset": "/images/service-soffit-and-fascia-repair-400w.webp 400w, /images/service-soffit-and-fascia-repair-800w.webp 800w, /images/service-soffit-and-fascia-repair-1200w.webp 1200w, /images/service-soffit-and-fascia-repair.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      },
+      "gutter-installation": {
+        "src": "/images/service-gutter-installation.webp",
+        "srcset": "/images/service-gutter-installation-400w.webp 400w, /images/service-gutter-installation-800w.webp 800w, /images/service-gutter-installation-1200w.webp 1200w, /images/service-gutter-installation.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    },
+    "gallery": [
+      "/images/gallery-0.webp",
+      "/images/gallery-1.webp"
+    ],
+    "galleryResponsive": [
+      {
+        "src": "/images/gallery-0.webp",
+        "srcset": "/images/gallery-0-400w.webp 400w, /images/gallery-0-800w.webp 800w, /images/gallery-0-1200w.webp 1200w, /images/gallery-0.webp 1200w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1200,
+        "height": 896
+      },
+      {
+        "src": "/images/gallery-1.webp",
+        "srcset": "/images/gallery-1-400w.webp 400w, /images/gallery-1-800w.webp 800w, /images/gallery-1-1200w.webp 1200w, /images/gallery-1.webp 1264w",
+        "sizes": "(max-width: 768px) 100vw, (max-width: 1024px) 50vw, 33vw",
+        "width": 1264,
+        "height": 848
+      }
+    ]
+  }
+}
